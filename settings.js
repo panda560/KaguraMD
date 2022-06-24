@@ -10,17 +10,17 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.owner = ['6281273677810','84358850353','6281959293465','66986609139','84796102942','6285975075847']
+global.premium = ['6281273677810','84358850353','6281959293465','66986609139','84796102942','6285975075847']
+global.ownernomer = '6281273677810'
+global.ownername = 'PRATAMA OFC'
+global.botname = 'TAMWIN-MD'
+global.footer = 'PRATAMA OFC'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© BotWa'
-global.author = '2022'
+global.packname = '© PRATAMA'
+global.author = 'M.A.F.P'
 global.sp = '⭔'
 
 //---------( INFO )---------//
