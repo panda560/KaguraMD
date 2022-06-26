@@ -14,13 +14,13 @@ global.owner = ['6281273677810','66986609139','6285975075847','84796102942','628
 global.premium = ['6281273677810']
 global.ownernomer = '6281273677810'
 global.ownername = 'Pratama Official'
-global.botname = 'TAMWIN-MD'
+global.botname = '® PRATAMA-MD'
 global.footer = 'Pratama Official'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© BotWa'
-global.author = '2022'
+global.packname = '® PRATAMA'
+global.author = 'M.A.F.PRATAMA'
 global.sp = '⭔'
 
 //---------( INFO )---------//
